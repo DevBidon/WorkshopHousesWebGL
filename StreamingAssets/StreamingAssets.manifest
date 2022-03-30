@@ -1,94 +1,16 @@
 ManifestFileVersion: 0
-CRC: 3954768091
+CRC: 2652432473
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: 001_1 - 2 floors red
       Dependencies: {}
     Info_1:
-      Name: 001_2 - 2 floors red
+      Name: 001_5 - 2 floors red
       Dependencies: {}
     Info_2:
-      Name: 001_3 - 2 floors red
-      Dependencies: {}
-    Info_3:
-      Name: 001_4 - 2 floors red
-      Dependencies: {}
-    Info_4:
-      Name: 001_6 - 2 floors red
-      Dependencies: {}
-    Info_5:
-      Name: 001_7 - 2 floors red
-      Dependencies: {}
-    Info_6:
-      Name: 001_8 - 2 floors red
-      Dependencies: {}
-    Info_7:
-      Name: 001_9 - 2 floors red
-      Dependencies: {}
-    Info_8:
-      Name: 001_14 - 2 floors red
-      Dependencies: {}
-    Info_9:
-      Name: 001_15 - 2 floors red
-      Dependencies: {}
-    Info_10:
-      Name: 001_10 - 2 floors grey
-      Dependencies: {}
-    Info_11:
-      Name: 001_6 - 1 floor
-      Dependencies: {}
-    Info_12:
-      Name: 001_6 - 2 floors grey
-      Dependencies: {}
-    Info_13:
       Name: 001_1 - 1 floor
       Dependencies: {}
-    Info_14:
+    Info_3:
       Name: 001_1 - 2 floors grey
-      Dependencies: {}
-    Info_15:
-      Name: 001_5 - 1 floor
-      Dependencies: {}
-    Info_16:
-      Name: 001_5 - 2 floors grey
-      Dependencies: {}
-    Info_17:
-      Name: 001_4 - 1 floor
-      Dependencies: {}
-    Info_18:
-      Name: 001_4 - 2 floors grey
-      Dependencies: {}
-    Info_19:
-      Name: 001_9 - 1 floor
-      Dependencies: {}
-    Info_20:
-      Name: 001_9 - 2 floors grey
-      Dependencies: {}
-    Info_21:
-      Name: 001_3 - 1 floor
-      Dependencies: {}
-    Info_22:
-      Name: 001_3 - 2 floors grey
-      Dependencies: {}
-    Info_23:
-      Name: 001_8 - 1 floor
-      Dependencies: {}
-    Info_24:
-      Name: 001_8 - 2 floors grey
-      Dependencies: {}
-    Info_25:
-      Name: 001_2 - 1 floor
-      Dependencies: {}
-    Info_26:
-      Name: 001_2 - 2 floors grey
-      Dependencies: {}
-    Info_27:
-      Name: 001_7 - 1 floor
-      Dependencies: {}
-    Info_28:
-      Name: 001_7 - 2 floors grey
-      Dependencies: {}
-    Info_29:
-      Name: 001_10 - 1 floor
       Dependencies: {}
