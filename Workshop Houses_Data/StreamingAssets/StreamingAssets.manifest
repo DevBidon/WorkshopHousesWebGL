@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2652432473
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 001_1 - 2 floors red
+      Dependencies: {}
+    Info_1:
+      Name: 001_5 - 2 floors red
+      Dependencies: {}
+    Info_2:
+      Name: 001_1 - 1 floor
+      Dependencies: {}
+    Info_3:
+      Name: 001_1 - 2 floors grey
+      Dependencies: {}
