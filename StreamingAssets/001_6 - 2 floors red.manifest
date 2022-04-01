@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1149805107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5ad9637c05fc7f641eb18fa3cc02f9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c040cef7601b3c05f2f6ecddfcec8c0
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/Houses Overview/Houses Overview Textures/2 Floors Red Cubs/001_6
+  - 2 Floors Red.jpg
+Dependencies: []
